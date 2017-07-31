@@ -17,7 +17,7 @@
     "contributes": {
         "commands": [{
             "command": "extension.gotoAngularDef",
-            "title": "Go to definition"
+            "title": "Go to angular definition"
         }]
     },
     "scripts": {
